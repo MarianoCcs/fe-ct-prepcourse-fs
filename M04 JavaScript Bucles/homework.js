@@ -4,15 +4,20 @@ function obtenerMayor(x, y) {
    // "x" e "y" son números enteros.
    // Retornar el número más grande.
    // Si son iguales, retornar cualquiera de los dos.
-   // Tu código:
+   // Tu código: 
+   
 }
 
 function mayoriaDeEdad(edad) {
    // Determinar si la persona puede ingresar al evento según su edad.
    // Si tiene 18 años ó más debe retornar el string: "Allowed".
    // Caso contrario: "Not allowed".
-   // Tu código:
-}
+   // Tu código: funtion ingresarEvento (edad) {
+   if (edad === >=18)
+      console.log (Allowed);
+  } else (edad === <=17)
+   console.log (Not Allowed)
+} 
 
 function conection(status) {
    // El argumento "status" representa el estado de conexión de un usuario.
